@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\e-c_project\Project\BusinessLogic\bin\Debug\MyDatabase.mdf
+C:\Users\Hp\Desktop\e-c_project\Project\BusinessLogic\bin\Debug\MyDatabase_log.ldf
+C:\Users\Hp\Desktop\e-c_project\Project\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\Hp\Desktop\e-c_project\Project\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Hp\Desktop\e-c_project\Project\BusinessLogic\bin\Debug\DataAcessLayer.dll
+C:\Users\Hp\Desktop\e-c_project\Project\BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\Hp\Desktop\e-c_project\Project\BusinessLogic\bin\Debug\DataAcessLayer.pdb
+C:\Users\Hp\Desktop\e-c_project\Project\BusinessLogic\bin\Debug\DataAcessLayer.dll.config
+C:\Users\Hp\Desktop\e-c_project\Project\BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\Hp\Desktop\e-c_project\Project\BusinessLogic\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\e-c_project\Project\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\e-c_project\Project\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+C:\Users\Hp\Desktop\e-c_project\Project\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Hp\Desktop\e-c_project\Project\BusinessLogic\obj\Debug\BusinessLogic.pdb

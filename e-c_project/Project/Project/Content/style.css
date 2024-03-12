@@ -1,0 +1,147 @@
+﻿body {
+    background-color: #f2f2f2;
+    margin: 0;
+}
+
+ul {
+    list-style: none;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid;
+}
+
+
+
+.clear {
+    clear: both;
+}
+
+.error {
+    color: red;
+}
+
+.div-container {
+    margin-top: 20px;
+}
+
+    .div-container .div-left {
+        float: left;
+        width: 20%;
+    }
+
+        .div-container .div-left .left-title {
+            text-align: left;
+            padding: 10px;
+            font-weight: bold;
+            background-color: black;
+            color: white;
+            text-transform: uppercase;
+        }
+
+        .div-container .div-left .left-menu {
+        }
+
+            .div-container .div-left .left-menu ul {
+            }
+
+                .div-container .div-left .left-menu ul li {
+                    line-height: 30px;
+                }
+
+                    .div-container .div-left .left-menu ul li a {
+                        color: #333333;
+                    }
+
+                        .div-container .div-left .left-menu ul li a:hover {
+                            color: blue;
+                            background-color: transparent;
+                            text-decoration: none;
+                        }
+
+    .div-container .div-main {
+        float: left;
+        width: 80%;
+        padding: 10px;
+    }
+
+        .div-container .div-main .main-header {
+            font-weight: bold;
+            text-transform: uppercase;
+            font-size: 18px;
+            border-bottom: solid 1px #808080;
+            margin-bottom: 5px;
+        }
+
+        .div-container .div-main .top-button {
+            padding-bottom: 5px;
+        }
+
+        .div-container .div-main .home-product-list {
+            padding-top: 10px;
+        }
+
+            .div-container .div-main .home-product-list .product-content {
+                float: left;
+                padding: 5px 10px 10px 5px;
+            }
+
+                .div-container .div-main .home-product-list .product-content .product-image {
+                }
+
+                    .div-container .div-main .home-product-list .product-content .product-image a {
+                    }
+
+                        .div-container .div-main .home-product-list .product-content .product-image a img {
+                            width: 160px;
+                            height: 180px;
+                        }
+
+                .div-container .div-main .home-product-list .product-content .product-title {
+                    color: blue;
+                }
+
+                    .div-container .div-main .home-product-list .product-content .product-title a {
+                        padding: 5px;
+                    }
+
+                        .div-container .div-main .home-product-list .product-content .product-title a:hover {
+                            color: black;
+                            background-color: transparent;
+                            text-decoration: none;
+                        }
+
+                .div-container .div-main .home-product-list .product-content .product-price {
+                    color: black;
+                    padding: 0 5px 0 5px;
+                }
+
+                .div-container .div-main .home-product-list .product-content .product-add-to-cart {
+                    color: blue;
+                }
+                .div-container .div-main .home-product-list .product-content .product-add-to-cart a{
+                    padding:5px;
+                }
+                .div-container .div-main .home-product-list .product-content .product-add-to-cart a:hover {
+                    color: black;
+                    background-color: transparent;
+                    text-decoration: none;
+                }
+
+    .div-container .div-footer {
+        padding: 15px 0 15px 0;
+    }
+
+
+    .client-information{
+        margin-top:10px;
+        text-align:center;
+    }
+
+    .textbox{
+        width:200px;
+    }

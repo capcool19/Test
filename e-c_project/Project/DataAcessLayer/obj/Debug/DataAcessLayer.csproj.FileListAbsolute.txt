@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\e-c_project\Project\DataAcessLayer\bin\Debug\MyDatabase.mdf
+C:\Users\Hp\Desktop\e-c_project\Project\DataAcessLayer\bin\Debug\MyDatabase_log.ldf
+C:\Users\Hp\Desktop\e-c_project\Project\DataAcessLayer\bin\Debug\DataAcessLayer.dll.config
+C:\Users\Hp\Desktop\e-c_project\Project\DataAcessLayer\bin\Debug\DataAcessLayer.dll
+C:\Users\Hp\Desktop\e-c_project\Project\DataAcessLayer\bin\Debug\DataAcessLayer.pdb
+C:\Users\Hp\Desktop\e-c_project\Project\DataAcessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Hp\Desktop\e-c_project\Project\DataAcessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hp\Desktop\e-c_project\Project\DataAcessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Hp\Desktop\e-c_project\Project\DataAcessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hp\Desktop\e-c_project\Project\DataAcessLayer\obj\Debug\DataAcessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\e-c_project\Project\DataAcessLayer\obj\Debug\DataAcessLayer.csproj.CopyComplete
+C:\Users\Hp\Desktop\e-c_project\Project\DataAcessLayer\obj\Debug\DataAcessLayer.dll
+C:\Users\Hp\Desktop\e-c_project\Project\DataAcessLayer\obj\Debug\DataAcessLayer.pdb
+C:\Users\Hp\Desktop\e-c_project\Project\DataAcessLayer\obj\Debug\DataAcessLayer.csproj.AssemblyReference.cache
